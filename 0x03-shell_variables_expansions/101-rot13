@@ -1,0 +1,1 @@
+tr 'echo {a..z} | tr -d' " 'echo {N..Z} $(echo {A..M}) | tr -d ' ' '
